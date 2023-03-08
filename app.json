@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-expo-app",
-    "slug": "my-expo-app",
+    "name": "react-native-shared-element-demo",
+    "slug": "react-native-shared-element-demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f43fea95-fa8e-4f54-b282-dff13959afa2"
+      }
+    },
+    "owner": "kennychu0510"
   }
 }
